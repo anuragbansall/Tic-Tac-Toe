@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://tic-tac-toe-online-fun.vercel.app/">
-    <img src="./assets/tic-tac-toe-fun.png" alt="Logo" width="80" height="80">
+    <img src="./assets/game-logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Tic Tac Toe</h3>
